@@ -1,7 +1,7 @@
 import csv
-import sqlite3
-import os
 import fnmatch
+import os
+import sqlite3
 
 
 DEFAULT_FOLDER = os.path.abspath(os.curdir)
