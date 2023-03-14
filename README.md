@@ -149,4 +149,4 @@ docker-compose exec web python manage.py collectstatic --no-input
 Бурлака Владислав
 vartexxx29@yandex.ru
 
-![example workflow](https://github.com/vartexxx/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/vartexxx/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
