@@ -3,7 +3,6 @@ import fnmatch
 import os
 import sqlite3
 
-
 DEFAULT_FOLDER = os.path.abspath(os.curdir)
 DATABASE_DEFAULT_FOLDER = 'api_yamdb/static/data'
 DATABASE_FOLDER = os.path.join(DEFAULT_FOLDER, DATABASE_DEFAULT_FOLDER)
