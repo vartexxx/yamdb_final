@@ -1,6 +1,6 @@
 # api_yamdb
-api_yamdb
-Проект YaMDb
+![example workflow](https://github.com/vartexxx/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
+Проект YaMDb доступен по адресу: http://158.160.37.120/admin/
 
 Проект YaMDb собирает отзывы пользователей на произведения. Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 
