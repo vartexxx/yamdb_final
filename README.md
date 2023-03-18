@@ -25,9 +25,7 @@
 
 ```bash
 py -3.7 -m venv venv
-```
 
-```bash
 source venv/Scripts/activate
 ```
 
@@ -35,9 +33,7 @@ source venv/Scripts/activate
 
 ```bash
 python -m pip install --upgrade pip
-```
 
-```bash
 pip install -r requirements.txt
 ```
 
@@ -148,5 +144,3 @@ docker-compose exec web python manage.py collectstatic --no-input
 ### Автор:
 Бурлака Владислав
 vartexxx29@yandex.ru
-
-![example workflow](https://github.com/vartexxx/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
